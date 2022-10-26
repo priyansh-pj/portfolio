@@ -1,1 +1,185 @@
+/* Color pallet */
+/* 
+    #E4F9F5
+    #30E3CA
+    #11999E
+    #40514E
+*/
+
+/* Tag CSS */
+/* START */
+
+body{
+    text-align: center;
+    margin: 0rem;
+    font-family: Merriweather;
+    color: #40514E;
+}
+hr{
+    border-style: dotted;
+    border-width: .7rem;
+    border-top: .5rem;
+    width: 5rem;
+    color: #EAF6F6;
+}
+/* END */
+
+
+
+
+
+
+/* Class CSS */
+/* Top Container */
+/* START */
+.top-container{
+    height: 37.8rem;
+    background-color: #cbf8f8;
+    padding-top: 7rem;
+    margin: 0rem;
+    position: relative;
+}
+.title_content{
+    color: #66BFBF;
+    line-height: 2;
+}
+.cloud{
+    width: 20rem;
+    opacity: 80%;
+}
+
+/* END */
+
+/* Middle Container */
+/* START */
+.profile{
+    margin: 3rem auto;
+    width: 60rem;
+}
+.profile img{
+    height: 13rem;
+    width: 13rem;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.profile h2{
+    font-size: 2rem;
+    color: #66BFBF;
+    font-style: Montserrat;
+}
+
+.skills h2{
+    margin-top: 4rem;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-style: Montserrat;
+}
+.skill-icon{
+    height: 10rem;
+    width: 10rem;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    float: left;
+    overflow: auto;
+}
+.skill-row{
+    width: 40rem;
+    margin: 6rem auto;
+    text-align: left;
+}
+.skill-row h3{
+    font-size: 1.8rem;
+    color: #11999E;
+}
+
+.contact-me{
+    width: 40rem;
+    margin: 1rem auto;
+    margin-bottom: 5rem;
+}
+.contact-me h2{
+    margin-top: 4rem;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-style: Montserrat;
+}
+.contact-me h3{
+    font-size: 1.3rem;
+    color: #11999E;
+}
+
+/* END */
+
+/* Bottom Container */
+/* START */
+.bottom-container{
+    background-color: #66BFBF;
+
+    margin: 0%;
+    padding: 3rem;
+}
+.bottom-container a{
+    color: #11999E;
+    margin: 2rem 1rem;
+    margin-top: 4rem;
+}
+.bottom-container p{
+    margin: 2rem 2rem 0rem 2rem;
+    color: #EAF6F6;
+}
+/* END */
+
+
+
+
+
+/* Id CSS */
+
+/* Top Container */
+/* START */
+#title{
+    font-family: Sacramento;
+    font-size: 5rem;
+    font-weight: bold;
+    margin: 0% auto;
+}
+#description{
+    position: relative;
+    font-family: Montserrat;
+    font-weight: normal;
+}
+#mountain{
+    margin-top: 0%;
+    position: relative;
+
+}
+#cloud_1{
+    position: absolute;
+    left: 14rem;
+    top: 12rem;
+}
+#cloud_2{
+    position: absolute;
+    top:21rem;
+    right: 10rem;
+}
+/* END */
+
+/* Middle Container */
+/* START */
+#skill-row-apple{
+    text-align: right;
+}
+#skill-row-apple img{
+    float: right;
+    margin-left: 1rem;
+}
+/* END */
+
+/* Bottom Container */
+/* START */
+
+/* END */
 
