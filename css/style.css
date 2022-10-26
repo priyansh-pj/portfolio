@@ -180,6 +180,21 @@ hr{
 
 /* Bottom Container */
 /* START */
+#contact {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
 
+#contact:hover {
+  background: #0b79b8;
+  text-decoration: none;
+}
 /* END */
 
